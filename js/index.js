@@ -88,3 +88,40 @@
 
 
 
+// 5-Misol
+
+// function multipleMarks(str) {
+//     let result = '';
+//     for (let i = 0; i < str.length; i++) {
+//       if (str[i] === '!') {
+//       } else if (str[i].match()) {
+//         result += str[i];
+//       }
+//     }
+//     return result;
+// }
+  
+// console.log(multipleMarks("Hello! How are you?"));
+
+
+
+
+
+
+// 6-Misol
+
+// 7-Misol
+
+// function removeFirstAndLast(str) {
+//     if (str.length <= 2) {
+//         return '';
+//     } else {
+//         var result = '';
+//         for (var i = 1; i < str.length - 1; i++) {
+//             result += str[i];
+//         }
+//         return result;
+//     }
+// }
+
+// console.log(result);
